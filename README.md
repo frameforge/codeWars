@@ -1,4 +1,4 @@
-<h2 align="center">codeWars Kata</h2>
+<h1 align="center">codeWars Kata</h1>
 
 <div align="center">
 
