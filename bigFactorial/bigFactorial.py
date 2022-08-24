@@ -27,5 +27,5 @@ def bigFact(n):
         i+=1
     return makeFact
 
-thefact = bigFact(-43)
+thefact = bigFact(43)
 print(thefact)
