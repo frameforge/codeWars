@@ -39,7 +39,7 @@ If you're looking for a way to contribute, you can scan through our [existing is
 <table>
   <tr>
     <td>
-    <img align="left" src="https://raw.githubusercontent.com/codinasion/codinasion/master/image/sylvie/sylvie-small.png" width="190">
+    <img align="left" src="https://github.com/0ME9A/CodeWars/blob/master/codewars%20(1).png" width="190">
     <h3>Thanks for contributing :purple_heart:</h3>
     <ul>
       <li>Thanks for all your contributions and efforts</li>
