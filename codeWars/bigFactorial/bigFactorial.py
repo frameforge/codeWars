@@ -1,4 +1,3 @@
-
 # The factorial of a number, n!, is defined for whole numbers as the product of all integers from 1 to n.
 # For example, 5! is 5 * 4 * 3 * 2 * 1 = 120
 
@@ -27,5 +26,5 @@ def bigFact(n):
         i+=1
     return makeFact
 
-thefact = bigFact(43)
+thefact = bigFact(4)
 print(thefact)
