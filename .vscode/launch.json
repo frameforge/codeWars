@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Replace With Alphabet Position\\ReplaceWithAlphabetPosition.js"
+            "program": "${workspaceFolder}\\Replace With Alphabet Position\\multiples-of-3-or-5.js"
         }
     ]
 }
