@@ -1,18 +1,19 @@
-// List Filtring
+// filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
 
-function filter(l) {
+
+function filter_list(l) {
     const bigL = [...l]
-    newArrray = []
+    newArr = []
     index = 0
     for (let i = 0; i < bigL.length; i++) {
         const element = bigL[i];
         if (typeof element === "string") {
-            newArrray[index] = element
+            newArr[index] = element
             index++
         }
     }
-    return newArrray
+    return newArr
 }
 
-const theFilter = filter([1, 2, 'a', 'b', 'x', '5.5', 3.3, [2, 'd', 'f'], 'e'])
-console.log(theFilter)
+const filter = filter_list([1, 2, 'a', 'b', 'x', '5.5', 3.3, [2, 'd', 'f'], 'e'])
+console.log(filter)

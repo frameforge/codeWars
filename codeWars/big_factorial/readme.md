@@ -2,7 +2,7 @@
 
 ### The factorial of a number, n!, is defined for whole numbers as the product of all integers from 1 to n.
 
-**For example**
+## For example
 
     5! is 5 * 4 * 3 * 2 * 1 = 120
 
@@ -10,12 +10,12 @@ Most factorial implementations use a recursive function to determine the value o
 
 Write an implementation to calculate the factorial of arbitrarily large numbers, without recursion.
 
-**Rules**
+## Rules
 
     n < 0 should return nil/ None
     n = 0 should return 1
     n > 0 should return n!
 
-**Note**
+## Note
 
- Codewars limits the amount of data it will send back and forth, which may introduce a false ceiling for how high of a value of `n` it will accept. All tests use values less than this limit.
+Codewars limits the amount of data it will send back and forth, which may introduce a false ceiling for how high of a value of `n` it will accept. All tests use values less than this limit.
