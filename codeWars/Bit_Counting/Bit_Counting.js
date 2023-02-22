@@ -7,6 +7,12 @@ const Bit_Counting = function (n) {
     return filter_1.length;
 };
 
+// Method 2
+const Bit_Counting_2 = function (n) {
+    return n.toString(2).replaceAll(0, '').length
+};
+
+
 Bit_Counting(7)
 Bit_Counting(9)
 Bit_Counting(10)
