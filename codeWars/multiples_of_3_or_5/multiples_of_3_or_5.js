@@ -11,4 +11,5 @@ function multiples_of_3_or_5(n) {
     return total_sum
 }
 
-multiples_of_3_or_5(10)
+const run = multiples_of_3_or_5(10)
+console.log(run)
