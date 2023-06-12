@@ -8,8 +8,8 @@ function Bit_Counting(n: number): number {
 }
 
 // Method 2
-const Bit_Counting_2 = function (n:number):number {
-  return n.toString(2).replaceAll(0, '').length
+const Bit_Counting_2 = function (n: number): number {
+  return n.toString(2).replaceAll(0, "").length;
 };
 
 Bit_Counting(7);
