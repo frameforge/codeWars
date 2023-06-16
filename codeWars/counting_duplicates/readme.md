@@ -1,13 +1,30 @@
-# Count the number of Duplicates
-Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
+# Counting Duplicates
 
-## Example
+This PHP function counts the number of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in a given input string. It ignores non-alphabetic and non-numeric characters.
 
-    "abcde" -> 0 # no characters repeats more than once
-    "aabbcde" -> 2 # 'a' and 'b'
-    "aabBcde" -> 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
-    "indivisibility" -> 1 # 'i' occurs six times
-    "Indivisibilities" -> 2 # 'i' occurs seven times and 's' occurs twice
-    "aA11" -> 2 # 'a' and '1'
-    "ABBA" -> 2 # 'A' and 'B' each occur twice
+## Usage
 
+The function `countDuplicates($string)` takes a string as input and returns the count of duplicates. The input string should only contain alphabets (both uppercase and lowercase) and numeric digits.
+
+### Example
+
+```php
+$count = countDuplicates("aabBcde");
+echo $count;  // Output: 2
+```
+```
+Input: "abcde"
+Output: 0
+Explanation: No characters repeat more than once.
+
+Input: "aabbcde"
+Output: 2
+Explanation: The characters 'a' and 'b' both occur more than once.
+
+Input: "indivisibility"
+Output: 1
+Explanation: The character 'i' occurs six times.
+
+Input: "ABBA"
+Output: 2
+Explanation: The characters 'A' and 'B' each occur twice.
