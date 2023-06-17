@@ -1,12 +1,31 @@
-# reversed words
+# Reverse Words in a String
 
-Complete the solution so that it reverses all of the words within the string passed in.
+In this problem, the task is to reverse all the words within a given string.
 
-**Example(Input):**
+### Function Signature
 
-    "The greatest victory is that which requires no battle"
-    
+```python
+def reverse_words(str: str) -> str:
+    # code goes here
+```
 
-**Example(Output):**
+## Input
 
-    "battle no requires which that is victory greatest The"
+- `str`: A string consisting of words separated by exactly one space. There are no leading or trailing spaces.
+
+## Output
+
+- Returns a new string with the words in reversed order.
+
+## Example
+
+```python
+Copy code
+print(reverse_words("hello world!"))
+
+# Output: "world! hello"
+```
+
+## Note
+
+The solution splits the string into a list of words using the space delimiter, reverses the list, and then joins the words back into a string using spaces.
