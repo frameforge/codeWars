@@ -28,4 +28,4 @@ console.log(hammingDistance(a, b)); // Output: 3
 
 ## Contributors
 
-- @omega
+- @0ME9A

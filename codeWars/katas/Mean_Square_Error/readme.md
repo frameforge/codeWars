@@ -22,4 +22,4 @@ The Mean Square Error (MSE) is a measurement of the average squared difference b
 
 ## Contributors
 
-- @omega
+- @0ME9A

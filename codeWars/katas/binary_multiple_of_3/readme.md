@@ -33,4 +33,4 @@ binary_multiple_of_3(' abc ')  # False
 
 ## Contributors
 
-- @omega
+- @0ME9A

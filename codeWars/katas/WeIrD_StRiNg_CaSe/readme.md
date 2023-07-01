@@ -17,4 +17,4 @@ toWeirdCase("Weird string case"); // "WeIrD StRiNg CaSe"
 
 ## Contributors
 
-- @omega
+- @0ME9A

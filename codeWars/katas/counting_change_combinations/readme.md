@@ -42,4 +42,4 @@ The function returns the count of different ways to make change for the given am
 
 ## Contributors
 
-- @omega
+- @0ME9A

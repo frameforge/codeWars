@@ -29,4 +29,4 @@ titleCase("the quick brown fox"); // should return: 'The Quick Brown Fox'
 
 ## Contributors
 
-- @omega
+- @0ME9A

@@ -28,4 +28,4 @@ Codewars limits the amount of data it will send back and forth, which may introd
 
 ## Contributors
 
-- @omega
+- @0ME9A

@@ -51,4 +51,4 @@ console.log(result2);
 
 ## Contributors
 
-- @omega
+- @0ME9A

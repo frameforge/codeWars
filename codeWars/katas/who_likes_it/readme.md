@@ -23,4 +23,4 @@ console.log(formatLikes(["Alex", "Jacob", "Mark", "Max"])); // Output: "Alex, Ja
 
 ## Contributors
 
-- @omega
+- @0ME9A

@@ -38,4 +38,4 @@ Explanation: The characters 'A' and 'B' each occur twice.
 
 ## Contributors
 
-- @omega
+- @0ME9A

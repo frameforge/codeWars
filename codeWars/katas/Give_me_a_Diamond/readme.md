@@ -36,4 +36,4 @@ A size 5 diamond:
 
 ## Contributors
 
-- @omega
+- @0ME9A

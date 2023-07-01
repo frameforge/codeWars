@@ -35,4 +35,4 @@ binaryDivisibleBy(' abc ')  # False
 
 ## Contributors
 
-- @omega
+- @0ME9A

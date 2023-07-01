@@ -12,4 +12,4 @@ Finish the solution so that it returns the sum of all the multiples of `3` or `5
 
 ## Contributors
 
-- @omega
+- @0ME9A

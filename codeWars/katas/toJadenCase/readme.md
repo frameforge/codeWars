@@ -20,4 +20,4 @@ toJadenCase(str); // "How Can Mirrors Be Real If Our Eyes Aren't Real"
 
 ## Contributors
 
-- @omega
+- @0ME9A

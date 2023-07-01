@@ -22,4 +22,4 @@ console.log(permutations("aabb")); // Output: ['aabb', 'abab', 'abba', 'baab', '
 
 ## Contributors
 
-- @omega
+- @0ME9A

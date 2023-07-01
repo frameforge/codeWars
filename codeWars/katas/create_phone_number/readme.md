@@ -20,4 +20,4 @@ Don't forget the space after the closing parentheses!
 
 ## Contributors
 
-- @omega
+- @0ME9A

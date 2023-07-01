@@ -24,4 +24,4 @@ console.log(rot13(example2)); // Output: "Guvf vf zl svefg EBG13 rkprepvfr!"
 
 ## Contributors
 
-- @omega
+- @0ME9A

@@ -17,4 +17,4 @@ spinWords("This is another test"); // "This is rehtona test"
 
 ## Contributors
 
-- @omega
+- @0ME9A

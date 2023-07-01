@@ -58,4 +58,4 @@ _For example: gap(11, 30000, 100000) --> nil_
 
 ## Contributors
 
-- @omega
+- @0ME9A

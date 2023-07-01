@@ -16,4 +16,4 @@ Given a string, detect whether or not it is a pangram. Return True if it is, Fal
 
 ## Contributors
 
-- @omega
+- @0ME9A

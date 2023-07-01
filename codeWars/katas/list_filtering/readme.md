@@ -14,4 +14,4 @@ In this kata you will create a function that takes a list of non-negative intege
 
 ## Contributors
 
-- @omega
+- @0ME9A

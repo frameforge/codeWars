@@ -21,4 +21,4 @@ expandedForm(70304); // Should return '70000 + 300 + 4'
 
 ## Contributors
 
-- @omega
+- @0ME9A

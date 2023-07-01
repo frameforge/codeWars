@@ -37,4 +37,4 @@ The solution splits the string into a list of words using the space delimiter, r
 
 ## Contributors
 
-- @omega
+- @0ME9A
